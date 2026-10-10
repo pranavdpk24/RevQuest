@@ -1,0 +1,14 @@
+
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Private credentials
+.env
+.streamlit/secrets.toml
+
+# Local backup
+app_backup.py
